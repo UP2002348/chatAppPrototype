@@ -6,4 +6,3 @@ So far this app is built on a local network system, however with a few adjustmen
 * Python
 * PyQt
 * SQLite
-
